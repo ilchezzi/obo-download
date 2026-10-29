@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "githubRepository": "",
+  "platforms": {
+    "macos-arm64": {
+      "version": "1.18.2",
+      "build": 131,
+      "minimumSystemVersion": "13.0",
+      "downloadPage": "./",
+      "downloadUrl": null,
+      "releaseTag": "v1.18.2",
+      "assetName": "ONE-BY-ONE-macOS-arm64.dmg"
+    }
+  }
+}
